@@ -169,5 +169,5 @@ To modify the logo in the application, make changes in the ```frontend/src/layou
 
 ## Copyright and License
 
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
+Copyright © 2022 Aman gupta. Code released under the MIT license.
 # Portfolio-using-React-and-Django
